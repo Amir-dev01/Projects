@@ -50,3 +50,5 @@ print("Отсортированный список:", sorted_list)
 
 search_value = 22
 binary_search(search_value, sorted_list)
+
+#hw6
